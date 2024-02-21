@@ -20,6 +20,7 @@ public class Main {
         double result1 = p.product(5, 10);
         int result2 = p.product(2,4,6);
         System.out.println(result2);
+//        System.out.println("hello how are you doing");
         System.out.println(result);
         System.out.println(result1);
     }
